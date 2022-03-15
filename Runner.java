@@ -1,5 +1,6 @@
 public class Runner
 {
+	//Shaurya learned how to merge branches with different code into one runner class while solving persisting errors
 	interface PerfectSquare
 	{
 		boolean checkPerfect(int num);
