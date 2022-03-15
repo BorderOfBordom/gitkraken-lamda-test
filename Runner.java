@@ -1,6 +1,10 @@
 public class Runner
 {
 	//Shaurya learned how to merge branches with different code into one runner class while solving persisting errors
+	/*
+	Karan:
+		I learned how to use Github and how it helps improve the workflow of programmers.
+	*/
 	interface PerfectSquare
 	{
 		boolean checkPerfect(int num);
