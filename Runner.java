@@ -1,5 +1,9 @@
 public class Runner
 {
+	/*
+	Karan:
+		I learned how to use Github and how it helps improve the workflow of programmers.
+	*/
 	interface PerfectSquare
 	{
 		boolean checkPerfect(int num);
